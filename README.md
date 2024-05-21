@@ -8,4 +8,3 @@ Com base na descrição, temos abaixo as imagens do projeto para que você possa
 ![Section 01](/SRC/Img%20readme/Section%2001.jpeg)
 ![Section 02](/SRC/Img%20readme/Section%2002.jpeg)
 ![Section 03](/SRC/Img%20readme/Section%2003.jpeg)
- 
