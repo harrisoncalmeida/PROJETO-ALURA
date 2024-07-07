@@ -3,6 +3,7 @@
     background-image: url("/SRC/Imagens/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    display: flex;
     align-items: center;
     text-align: center;
 }
@@ -49,6 +50,7 @@
 
 /* Section second */
 .second {
+    /* display: flex; */
     align-items: center;
     margin: 0 10em;
 }
@@ -77,11 +79,15 @@
     margin-top: 1em;
 }
 
-.dispositivos__lista {
+.devices-lists {
     display: flex;
     justify-content: center;
     list-style-type: none;
     margin-bottom: 5em;
+    font-size: 32px;
+    color: var(--branco-principal);
+    margin-top: 1em;
+    margin-bottom: 2em;
 }
 
 .devices {
@@ -92,13 +98,6 @@
 .devices-title {
     font-size: 48px;
     color: var(--branco-principal);
-    margin-bottom: 2em;
-}
-
-.devices-lists {
-    font-size: 32px;
-    color: var(--branco-principal);
-    margin-top: 1em;
     margin-bottom: 2em;
 }
 
