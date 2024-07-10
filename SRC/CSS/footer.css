@@ -42,7 +42,7 @@
     color: var(--botao-azul);
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 767px) {
     .footer {
         margin-bottom: 25em;
     }

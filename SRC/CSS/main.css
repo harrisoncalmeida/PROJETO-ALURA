@@ -158,10 +158,14 @@
     }
 
     .image-devices {
-        width: 75%;
+        width: 20%;
         margin-top: 2em;
     }
     
+    .lists-item {
+        font-size: 12px;
+    }
+
     .list-link a {
         font-size: 10px;
         margin-left: 1em;
