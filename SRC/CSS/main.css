@@ -122,6 +122,15 @@
         padding-top: 15.5em;
     }
 
+    .container-button {
+        padding: 0.75em;
+        margin: 1em 1em;
+    }
+
+    .container-notice {
+        margin: 1em 1em;
+    }
+    
     .second {
         height: 65vh;
         display: flex;
