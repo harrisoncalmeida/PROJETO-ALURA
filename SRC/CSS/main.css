@@ -110,6 +110,7 @@
 }
 
 @media screen and (max-width: 767px) {
+    /* Section first */
     .first {
         background-image: url("/SRC/Imagens/Background-celular.png");
         display: flex;
@@ -131,8 +132,9 @@
         margin: 1em 1em;
     }
     
+    /* Section second */
     .second {
-        height: 65vh;
+        height: 90vh;
         display: flex;
         flex-direction: column;
         text-align: center;
@@ -150,7 +152,7 @@
     }
 
     .image-plus {
-        width: 95%;
+        width: 100%;
         order: -1;
     }
 
@@ -164,18 +166,23 @@
         margin-top: 2.5em;
     }
 
+    /* Section third */    
     .devices-title {
         font-size: 22px;
-        margin-top: -5em;
+        margin-top: -7.5em;
+    }
+    
+    .devices-lists {
+        display: flex;
+        flex-direction: column;
     }
 
     .image-devices {
-        width: 20%;
-        margin-top: 2em;
+        width: 50%;
     }
     
     .lists-item {
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .list-link a {
