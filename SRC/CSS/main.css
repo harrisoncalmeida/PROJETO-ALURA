@@ -117,7 +117,7 @@
         justify-content: center;
         align-items: center;   
     }
-    
+
     .container-title {
         font-size: 16px;
         padding-top: 15.5em;
@@ -134,7 +134,7 @@
     
     /* Section second */
     .second {
-        height: 80vh;
+        height: 70vh;
         display: flex;
         flex-direction: column;
         text-align: center;
