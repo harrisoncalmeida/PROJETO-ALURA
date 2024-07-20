@@ -134,7 +134,7 @@
     
     /* Section second */
     .second {
-        height: 90vh;
+        height: 80vh;
         display: flex;
         flex-direction: column;
         text-align: center;
