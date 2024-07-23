@@ -1,4 +1,4 @@
-/* Section first */
+/* Estilos gerais */
 .first {
     background-image: url("/SRC/Imagens/Background.png");
     background-repeat: no-repeat;
@@ -109,6 +109,7 @@
     color: var(--cor-de-fundo);
 }
 
+/* Media query para dispositivos menores que 767px */
 @media screen and (max-width: 767px) {
     /* Section first */
     .first {
@@ -189,4 +190,9 @@
         font-size: 10px;
         margin-left: 1em;
     }
+}
+
+/* Media query para dispositivos menores que 1024px */
+@media screen and (max-width: 1024px) {
+
 }
