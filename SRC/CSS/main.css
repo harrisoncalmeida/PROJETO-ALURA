@@ -55,11 +55,11 @@
 }
 
 .second-image {
-    width: 100%;
+    width: 80%;
 }
 
 .image-plus {
-    width: 100%;
+    width: 80%;
 }
 
 .describe-title {
@@ -152,7 +152,7 @@
     }
 
     .image-plus {
-        width: 100%;
+        width: 80%;
         order: -1;
     }
 
@@ -169,7 +169,7 @@
     /* Section third */    
     .devices-title {
         font-size: 22px;
-        margin-top: -7.5em;
+        margin-top: -5.5em;
     }
     
     .devices-lists {
@@ -190,3 +190,4 @@
         margin-left: 1em;
     }
 }
+
