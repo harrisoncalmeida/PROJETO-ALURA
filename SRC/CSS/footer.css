@@ -75,3 +75,15 @@
         margin: 3em 0 0 0;
     }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .footer-lists {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .footer-text-one {
+        margin: 5em 0 0 0;
+    }
+}

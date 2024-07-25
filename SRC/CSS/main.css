@@ -229,4 +229,15 @@
     .describe-title {
         font-size: 32px;
     }
+
+    /* Section third */
+
+    .devices-title {
+        font-size: 36px;
+    }
+
+    .devices-lists {
+        display: flex;
+        flex-direction: column;
+    }
 }
