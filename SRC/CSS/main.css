@@ -199,6 +199,7 @@
     }
     
     .container {
+        height: auto;
         display: flex;
         align-items: center;
         grid-template-columns: none;
