@@ -109,7 +109,7 @@
     color: var(--cor-de-fundo);
 }
 
-/* Media query para dispositivos menores que 767px */
+/* Media query para Celulares */
 @media screen and (max-width: 767px) {
     /* Section first */
     .first {
@@ -192,7 +192,7 @@
     }
 }
 
-/* Media query para dispositivos menores que 1024px */
+/* Media query para Tablets */
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .first {
         background-image: url(../Imagens/Background-celular.png);
