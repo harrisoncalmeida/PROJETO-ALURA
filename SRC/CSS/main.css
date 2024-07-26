@@ -1,6 +1,6 @@
 /* Estilos gerais */
 .first {
-    background-image: url("/SRC/Imagens/Background.png");
+    background-image: url("SRC/Imagens/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
